@@ -10,5 +10,5 @@
       ]
     }
   },
-  "postCreateCommand": "apt install graphviz"
+  "postCreateCommand": "apt install graphviz -y"
 }
