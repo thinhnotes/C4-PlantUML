@@ -10,5 +10,5 @@
       ]
     }
   },
-  "postCreateCommand": "apt install graphviz -y"
+  "postCreateCommand": "sudo apt install graphviz -y"
 }
