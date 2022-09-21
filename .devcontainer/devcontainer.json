@@ -9,5 +9,6 @@
         "systemticks.c4-dsl-extension"
       ]
     }
-  }
+  },
+  "postCreateCommand": "apt install graphviz"
 }
